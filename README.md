@@ -14,6 +14,7 @@ _website design project_
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
 Site published at: https://edvingv.github.io/design-02-fitbit/
+
 Design: [Fitbit](https://pin.it/1RtUNkH)
 
 ## 🎯 Project features/goals
